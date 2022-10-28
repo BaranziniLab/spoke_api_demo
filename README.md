@@ -8,3 +8,5 @@ You may need to install "requests" module for executing this notebook.
 ```
 pip install requests
 ```
+
+[Here](https://spoke.rbvi.ucsf.edu/swagger) is the link to the API swagger.
